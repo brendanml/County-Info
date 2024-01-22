@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Salsa&display=swap');
+
+body {
+    background-color: #9F9AA4;
+    font-family: 'Salsa', cursive;
+    font-size: large;
+}
+
+.appStyle {
+    color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.countryBlock {
+    background-color: #E7CFCD;
+    margin: 2rem;
+    padding: 2rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    border-radius: 1rem;
+}
+
+.searchForm {
+    background-color: #CFD8D7;
+    margin: 2rem;
+    padding: 2rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    border-radius: 1rem;
+    text-align: center;
+}
